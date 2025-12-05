@@ -144,4 +144,9 @@ I’m an undergraduate student at Plymouth University. Passionate about Software
   <a href="https://www.instagram.com/banuka_sineth"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
+## 
+<p align="center">
+  <b>🤝 Open to collaboration, learning, and building meaningful tech projects.</b>
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
