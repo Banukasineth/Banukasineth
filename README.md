@@ -1,7 +1,13 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
-  
+
+  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Banukasineth&label=Profile%20views&color=7B68EE&style=for-the-badge" alt="views" />
+  <img src="https://img.shields.io/badge/Age-21-7B68EE?style=for-the-badge&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-7B68EE?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-7B68EE?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-7B68EE?style=for-the-badge&logo=google-translate&logoColor=white" />
+</p>
 
   <br>
 
