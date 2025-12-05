@@ -4,16 +4,15 @@
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Banukasineth&label=Profile%20views&color=7B68EE&style=for-the-badge" alt="views" />
   <img src="https://img.shields.io/badge/Age-21-7B68EE?style=for-the-badge&logo=probot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-7B68EE?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-7B68EE?style=for-the-badge&logo=google-maps&logoColor=white" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-7B68EE?style=for-the-badge&logo=google-translate&logoColor=white" />
 </p>
 
   <br>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00BFFF&size=30&center=true&vCenter=true&lines=Hey!+I'm+Banuka+sineth!;Full-Stack+Developer;Welcome+to+my+profile!+✨" alt="Typing SVG" />
-  </a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B68EE&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+I'm+Banuk+Sineth;Undergraduate+Student+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Passionate+about+Software+Engineering+%F0%9F%92%BB;Learning+Java,+Python+%26+Web+Dev+%F0%9F%9A%80;Building+meaningful+tech+projects...&hearts;" alt="Typing SVG" />
+</a>
 </div>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
