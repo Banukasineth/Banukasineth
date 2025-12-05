@@ -129,7 +129,7 @@ I’m an undergraduate student at Plymouth University. Passionate about Software
 
 <h3 align="center">Support:</h3>
 <div align="center">
-  <a href="buymeacoffee.com/BanukaSineth">
+  <a href="https://buymeacoffee.com/banukasineth">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
   </a>
 </div>
