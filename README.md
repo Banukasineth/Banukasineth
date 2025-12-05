@@ -116,7 +116,7 @@ I’m an undergraduate student at Plymouth University. Passionate about Software
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Banukasineth&theme=radical" alt="GitHub Contributions" /></td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Banukasineth&theme=radical&hide_border=true" alt="GitHub Activity Streak" /></td>
+    <td><img src="https://streak-stats.demolab.com?user=Banukasineth&theme=radical&hide_border=true" alt="GitHub Streak" /></td>
     <td><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Banukasineth&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/></td>
   </tr>
   <tr>
