@@ -6,7 +6,7 @@
   <br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00BFFF&size=30&center=true&vCenter=true&lines=Hey!+I'm+Banukasineth!;I'm+a+Passionate+Developer;Open+Source+Enthusiast;Welcome+to+my+profile!+✨" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00BFFF&size=30&center=true&vCenter=true&lines=Hey!+I'm+Banuka+sineth!;Full-Stack+Developer;Welcome+to+my+profile!+✨" alt="Typing SVG" />
   </a>
 </div>
 
@@ -116,7 +116,7 @@ I’m an undergraduate student at Plymouth University. Passionate about Software
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Banukasineth&theme=radical" alt="GitHub Contributions" /></td>
   </tr>
   <tr>
-    <td><img src="https://streak-stats.demolab.com?user=Banukasineth&theme=radical&hide_border=true" alt="GitHub Streak" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Banukasineth&theme=radical&hide_border=true" alt="GitHub Activity Streak" /></td></td>
     <td><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Banukasineth&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/></td>
   </tr>
   <tr>
